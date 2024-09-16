@@ -1,0 +1,16 @@
+.git.cache
+
+.odooStandards/
+docs/
+
+.idea/
+.vscode/
+.npmrc
+
+logs/
+debug.log
+
+node_modules/
+dist/
+build/
+/coverage/
